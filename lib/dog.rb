@@ -2,11 +2,7 @@ class Dog
   def initialize(name, breed)
     @name = name
     if @breed = breed
-<<<<<<< HEAD
       return @breed
-=======
-      return
->>>>>>> 55177a2e7c37355ee079b4fc46b1723b3d2c8320
     else
       "Mutt"
     end
